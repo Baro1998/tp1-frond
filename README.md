@@ -1,4 +1,4 @@
-# 🌟 Noticias.com - ¡Primer Trabajo Practico de Fronf, proyecto de HTML y CSS! 📰
+# 🌟 Noticias.com - ¡Primer Trabajo Practico de Frond, proyecto de HTML y CSS! 📰
 
 ## 📝 Descripción
 ¡Bienvenido al proyecto de desarrollo web! En este proyecto, aprenderemos a crear un sitio web de noticias utilizando HTML5 y CSS3. Utilizaremos una plantilla para ayudarnos con el diseño visual del sitio.
