@@ -1,0 +1,26 @@
+.custom-text {
+    color: white; /* Color de texto blanco */
+    font-weight: bold; /* Texto en negrita */
+}
+
+.custom-text:hover {
+    color: yellow; /* Color de texto amarillo al pasar el ratón sobre el enlace */
+}
+.recent-news-img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.d-block {
+  width: 800px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.custom-form {
+    background-color: #343a40; /* Color de fondo gris oscuro */
+    border: 2px solid #6c757d; /* Borde gris oscuro de 2px */
+    border-radius: 10px; /* Bordes redondeados */
+    padding: 20px; /* Espaciado interno */
+    color: white; /* Color de texto blanco */
+}
